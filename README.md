@@ -1,4 +1,4 @@
-# pandas 101 Exercises
+# Pandas 101 Exercises
 
 This repository contains my solutions to a curated subset of the 101 Pandas Exercises from MachineLearningPlus.
 
